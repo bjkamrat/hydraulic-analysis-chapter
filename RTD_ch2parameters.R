@@ -1,5 +1,6 @@
-#Author: Brock Kamrath
-#Date Created: 3/26/2020
+# Author: Brock Kamrath
+# Date Created: 4/8/2020
+# Built using the priniciples from Bodin et al (2013) and Black and Martinez (2003)
 
 #Objective: Hydraulic analysis of common dataset format for tracer tests at walnut Cove
 
